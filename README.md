@@ -21,4 +21,4 @@ This script takes .mp3 files from a local directory and attaches them to designa
 
 If no match is found between an .mp3 filename and an ID# for a row, then the .mp3 file is assumed to be mislabeled and will not be uploaded.
 
-For all uploads, however, when an .mp3 file is successfully attached to a row, the row's "Status" column cell is updated. 
+For files that do get uploaded, however, when an .mp3 is successfully attached to a row, the row's "Status" column cell is updated. 
