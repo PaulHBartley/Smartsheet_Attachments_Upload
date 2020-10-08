@@ -1,6 +1,6 @@
 # Smartsheet_Attachments_Upload
 
-This is a Python script for automatically uploading .mp3 attachments to rows on [Smartsheet](https://smartsheet.com) via the Smartsheet RESTful API.
+This is a Python script for uploading .mp3 attachments to rows on [Smartsheet](https://smartsheet.com) via the Smartsheet RESTful API.
 
 # Python module dependencies
 
