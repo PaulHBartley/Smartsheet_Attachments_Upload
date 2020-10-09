@@ -19,6 +19,6 @@ This script takes .mp3 files from a local directory and attaches the files to de
 - An .mp3 file will only be uploaded if its designated row does not already have an .mp3 attachment.
 - The "ItemID" ID# for the row and the filename of the .mp3 must be a unique match with no duplicates hiding elsewhere in the sheet.
 
-If no match is found between an .mp3 filename and an ID# for a row, then the .mp3 file is assumed to be mislabeled and will not be uploaded.
+If no match is found between an .mp3 filename and an ID# for a row, then the .mp3 is assumed to be mislabeled and will not be uploaded.
 
 For .mp3 files that do get uploaded, however, when an .mp3 is successfully attached to a row, the row's "Status" column cell is updated. 
